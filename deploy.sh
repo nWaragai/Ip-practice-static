@@ -1,0 +1,1 @@
+scp -r ./ nnserver@s325.xrea.com:~/Ip-practice-static
