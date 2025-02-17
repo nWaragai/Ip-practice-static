@@ -14,3 +14,10 @@ https://github.com/nWaragai/lp-practice-static/projects/1
   
 # 必要な情報
   「XREA.com NEW SIGNUP」というメールに書かれています
+
+#　リリース手順
+プロジェクトディレクトリで以下のコマンドを実行してください
+
+```
+sh deploy.sh
+```
